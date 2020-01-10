@@ -1,3 +1,4 @@
 # 4coder_themes
-![Theme Preview](https://i.ibb.co/YZJ2X8d/Orange.png)
-These are the themes I use in my 4coder editor
+![Theme Preview](https://i.ibb.co/8cGMb2x/Orange.png)
+
+This is my 4coder editor orange theme 
